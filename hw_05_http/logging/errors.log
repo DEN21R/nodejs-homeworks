@@ -1,0 +1,5 @@
+Error: Test error
+    at Server.<anonymous> (file:///C:/Users/denr/Desktop/nodejs-homeworks/hw_05_http/logging/logging.js:32:11)
+    at Server.emit (node:events:508:28)
+    at parserOnIncoming (node:_http_server:1210:12)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:123:17)
